@@ -1,3 +1,3 @@
 # NOMP-Config
 
-These are the configuration files for adding Lonero to NOMP
+These are the configuration files needed to add Lonero to NOMP
